@@ -17,6 +17,7 @@ if moyenne > 10:
             r = True
         else:
             r = False
+            break
 else:
     r = False
 
